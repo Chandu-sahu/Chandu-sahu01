@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Chandrashekhar Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align=”right” alt=”coding” width=400 src=”https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aictsd.com%2Fanmc%2F&psig=AOvVaw1sOsG-USIStXOBRmLEEri1&ust=1716288994625000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCG24KJnIYDFQAAAAAdAAAAABAd”><img/>
+<img align=”right” alt=”coding” width=400 src=”https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aictsd.com%2Fanmc%2F&psig=AOvVaw1sOsG-USIStXOBRmLEEri1&ust=1716288994625000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCG24KJnIYDFQAAAAAdAAAAABAd”></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandu-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="chandu-sahu" /> </p>
 
